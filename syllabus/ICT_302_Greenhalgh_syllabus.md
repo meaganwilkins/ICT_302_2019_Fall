@@ -77,7 +77,7 @@ The course focuses on the practice and theory of designing, building and maintai
 
 ## Prerequisites
 
-There are no formal prerequisites for this course.
+There are no formal prerequisites for this course. *Nice!*
 
 ## Course Objectives—"I Can" Statements
 
@@ -137,7 +137,7 @@ Students missing any graded work due to an excused absence are responsible: for 
 
 ### Children in Class
 
-All breastfeeding babies are welcome in class as often as necessary. Non-nursing babies and older children are welcome whenever alternate arrangements cannot be made. I want all students—including students who are parents—to feel welcomed and be supported, and I expect all students to join me in these efforts.
+All breastfeeding babies are welcome in class as often as necessary. Non-nursing babies and older children are welcome whenever alternate arrangements cannot be made. I want all students—including students who are parents—to feel welcomed and be supported, and I expect all students to join me in these efforts. 
 
 (Thank you to [Dr. Christopher C. Jones](https://christophercjones.com/), whose [tweet](https://twitter.com/ccjones13/status/1107698161789747200) inspired my adoption of this policy.)
 
