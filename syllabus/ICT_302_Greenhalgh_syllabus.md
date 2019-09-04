@@ -16,7 +16,7 @@ This syllabus may be updated prior to and throughout the semester by Dr. Greenha
 
 ## Response Time
 
-From Monday to Friday, I work to respond to all emails (and Slack messages, GitHub pull requests, etc.) within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Most of your assessments are due on Sundays, so please keep this in mind! In return, I ask that you check Canvas, Slack, and other class platforms on a regular basis and that you respond to my messages within 48 hours.
+From Monday to Friday, I work to respond to all emails (and Slack messages, GitHub pull requests, etc.) within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Most of your assessments are due on Sundays, so please keep this in mind! **Insert your preferred method of communication here**. In return, I ask that you check Canvas, Slack, and other class platforms on a regular basis and that you respond to my messages within 48 hours.
 
 ## Office Hours
 
@@ -65,6 +65,8 @@ The VRC is a great resource for members of our military family. If you have ques
 ## Violence Intervention and Prevention (VIP) Center
 If you experience an incident of sex- or gender-based discrimination or interpersonal violence, we encourage you to report it. While you may talk to a faculty member or TA/RA/GA, understand that as a "Responsible Employee" of the University these individuals MUST report any acts of violence (including verbal bullying and sexual harassment) to the University's Title IX Coordinator in the IEEO Office. If you would like to speak with someone who may be able to afford you confidentiality, you can visit the [Violence Intervention and Prevention (VIP) Center’s website](https://www.uky.edu/vipcenter/content/faq) (offices located in Frazee Hall, lower level; email them; or call (859) 257-3574), [the Counseling Center’s (CC) website](http://www.uky.edu/counselingcenter/student-resources) (106 Frazee Hall; (859) ), and the [University Health Services (UHS) website](https://ukhealthcare.uky.edu/university-health-service/student-health/our-student-services); the VIP Center, CC, and UHS are confidential resources on campus. **The VIP Center accepts walk-in appointments**.
 
+**I would include the course information before the additional student information**
+
 # Course Information
 
 ## Meeting Schedule
@@ -73,7 +75,7 @@ This course meets on Mondays, Wednesdays, and Fridays from 3:00pm to 3:50pm in 3
 
 ## Course Description
 
-The course focuses on the practice and theory of designing, building and maintaining content management systems.
+The course focuses on the practice and theory of designing, building, and maintaining content management systems.
 
 ## Prerequisites
 
@@ -101,7 +103,7 @@ Furthermore, you will work together as a class to use what you learn from those 
 
 ### Adjusting the Syllabus
 
-This course is highly collaborative and flexible, and the "master" syllabus for the course is stored in GitHub, a technology built around collaborative work. As a class, we should all feel free to suggest changes to the syllabus that will better help us meet the course objectives listed above. However, the syllabus will not be changed willy-nilly or without broad support from all of us in ICT 302. This policy gives you extra freedom to suggest changes to the course; however, that freedom also comes with the responsibility to reflect on the course objectives and your achievement of them.
+This course is highly collaborative and flexible, and the "master" syllabus for the course is stored in GitHub, a technology built around collaborative work. As a class, we should all feel free to suggest changes to the syllabus that will better help us meet the course objectives listed above. However, the syllabus will not be changed willy-nilly or without broad support from all of us in ICT 302, and most assignment dates will stay the same. This policy gives you extra freedom to suggest changes to the course; however, that freedom also comes with the responsibility to reflect on the course objectives and your achievement of them.
 
 ### Technology Information and Requirements
 
@@ -243,7 +245,7 @@ Most of the technical and conceptual skills that you pick up will be demonstrate
 
 #### Learning Journal Setup (2 points; due 1 September 2019)
 
-Create your own repository in GitHub, set it to private, and add me (username: [greenhas](https://github.com/greenhas)) as a collaborator. Create a Markdown file in your repository that is titled `learning_journal` and that includes an introduction and your first two entries, you will then link to the file as a Canvas submission. You may organize your learning journal however you like, but you must use at least two different kinds of Markdown element. You will receive 1 point for creating the repository, setting it to private, and adding me as a collaborator. You will receive another point for writing an introduction to your learning journal and using at least two different kinds of Markdown elements in your journal.
+Create your own repository in GitHub, set it to private, and add me (username: [greenhas](https://github.com/greenhas)) as a collaborator. Create a Markdown file in your repository that is titled `learning_journal` and that includes an introduction and your first two entries, you will then link to the file as a Canvas submission. These first two entries will be the same entries that you have for the Week 1 Learning Journal. You may organize your learning journal however you like, but you must use at least two different kinds of Markdown element. You will receive 1 point for creating the repository, setting it to private, and adding me as a collaborator. You will receive another point for writing an introduction to your learning journal and using at least two different kinds of Markdown elements in your journal.
 
 #### Introductory Web Page (2 points; due 8 September 2019)
 
